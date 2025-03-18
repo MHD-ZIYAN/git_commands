@@ -21,6 +21,7 @@ A >> files that added to staging area
 
 git commit -m "my first commit"
 
-get push -u
+git push -u
 
 git clone <repository url> >> for cloning a repository from github
+
